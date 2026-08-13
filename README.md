@@ -13,12 +13,13 @@ This program helps people easily calculate total distance in under 4 values and 
 - User must use whole numbers
 
 ## Sample Output ##
+```markdown
 what is the value of X1? 5
 What is the value of Y2? 1
 What is the value of X2? 1
 What is the value of Y2?1
 the total distance is 8 or something
-
+```
 
 ## Author
 Name: Sur M> Akmad 
